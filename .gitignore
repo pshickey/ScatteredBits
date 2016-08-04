@@ -1,0 +1,6 @@
+*.markdown
+images/
+posts/
+_site/
+_cache/
+.stack-work/
