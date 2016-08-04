@@ -1,4 +1,5 @@
-*.markdown
+about.markdown
+contact.markdown
 images/
 posts/
 _site/
